@@ -1,0 +1,141 @@
+/* Global Styles */
+
+body {
+	margin:0px;
+	background-repeat: repeat;
+	padding: 0px;
+	margin: 0px;
+	padding: 0px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: ffffffffffff;
+	background-color: #2f0602;
+	background-position: center top;
+	}
+.header {
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+
+	
+a {
+	font-weight:bold;
+	background-image: url(../images/button/panel.jpg);
+	background-repeat: repeat-y;
+	background-position: center center;
+	color: #FFFFFF;
+	}
+.fonleft {
+	background-repeat: repeat;
+	background-position: center top;
+}
+
+	
+/* ID Styles */
+
+#navigation td {
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #2E0F0C;
+	}
+.fonriht {
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-image: url(../images/button.jpg);
+}
+.fonright {
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-image: url(../images/button.jpg);
+}
+
+
+	
+#navigation a {
+	font: 11px Verdana, Arial, Helvetica, sans-serif;
+	color: #663300;
+	line-height:16px;
+	letter-spacing:0.1em;
+	text-decoration: none;
+	display:block;
+	padding:8px 6px 10px 26px;
+
+
+	background: url(file:///C|/Program Files/Macromedia/Dreamweaver 8/Configuration/BuiltIn/StarterPages/mm_arrow.gif) 14px 45% no-repeat;
+	}
+.fonleft {
+	background-image: url(../images/fon_left.jpg);
+	background-repeat: no-repeat;
+}
+
+	
+#logo 	{
+	font:24px Verdana, Arial, Helvetica, sans-serif;
+	letter-spacing:0.2em;
+	line-height:30px;
+	}
+
+#tagline 	{	
+	font:12px Verdana, Arial, Helvetica, sans-serif;
+	color: #FF9933;
+	letter-spacing:.4em;
+	line-height:18px;
+	}
+
+#monthformat {
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+		}
+		
+#dateformat {
+	font:11px Verdana, Arial, Helvetica, sans-serif;
+	letter-spacing:.2em;
+	}
+	
+#dateformat a {
+	font:11px Verdana, Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	letter-spacing:.1em;
+	}
+	
+/* Class Styles */
+	
+.bodyText {
+	color:#e4fae2;
+	line-height:20px;
+	margin-top:0px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	}
+	
+.pageName{
+	font: 18px Verdana, Arial, Helvetica, sans-serif;
+	line-height:24px;
+	letter-spacing:.2em;
+	}
+	
+.subHeader {
+	font:bold 10px Verdana, Arial, Helvetica, sans-serif;
+	line-height:16px;
+	letter-spacing:.2em;
+	}
+
+.quote {
+	font: 20px Verdana, Arial, Helvetica, sans-serif;
+	line-height:30px;
+	}
+	
+.smallText {
+	color: #FFFEFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	}
+	
+.navText {
+	font: 11px Verdana, Arial, Helvetica, sans-serif;
+	color: #663300;
+	line-height:16px;
+	letter-spacing:0.1em;
+	text-decoration: none;
+	}
+	
