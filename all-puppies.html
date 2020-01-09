@@ -12,19 +12,7 @@
 <meta charset="windows-1251" />
 <script language="JavaScript" type="text/javascript" src="jquery/jquery-1.9.1.min.js"></script>
 <script language="JavaScript" type="text/javascript">
-$(document).ready(function(){
-	$('p, a, img, td, tr, div').attr('oncopy',"return false").attr('unselectable','on').attr('onmousedown','return false')
-})
-document.ondragstart = test;
-//запрет на перетаскивание 
-document.onselectstart = test;
-//запрет на выделение элементов страницы
-document.oncontextmenu = test;
-//запрет на выведение контекстного меню
 
-function test() {
-return false
-}
 
 </script>
 <link rel="stylesheet" href="css/mm_travel2.css" type="text/css" />
